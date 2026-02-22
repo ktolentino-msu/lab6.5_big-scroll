@@ -1,4 +1,17 @@
-/* Add screen styles below */
-a.active {
-    font-weight: bold;
+body {
+/*    margin: 0 auto;*/
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+main {
+    width: 500px;
+}
+
+img {
+    width: 500px;
+    border-radius: .5em;
 }

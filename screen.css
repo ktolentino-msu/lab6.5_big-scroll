@@ -13,6 +13,11 @@ main {
     width: 500px;
 }
 
+h1 {
+    width: 500px;
+    text-align: left;
+}
+
 img {
     width: 500px;
     border-radius: 2px;

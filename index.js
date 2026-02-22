@@ -1,4 +1,8 @@
-// Add JavaScript below
+// Dear Jeff,
+// When you say that this assignment requires 'unique' options,
+// I was unsure of if each image has to be different...
+// In real life, I'd design it to be much more cohesive
+// But I thought for this I'd play around with different options
 
 ScrollReveal().reveal('.photo1', {
     duration: 200, 

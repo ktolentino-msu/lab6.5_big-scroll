@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
 body {
-/*    margin: 0 auto;*/
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
     flex-wrap: nowrap;
+    font-family: "Plus Jakarta Sans", sans-serif;;
 }
 
 main {
@@ -13,5 +15,6 @@ main {
 
 img {
     width: 500px;
-    border-radius: .5em;
+    border-radius: 2px;
+    padding-bottom: 1em;
 }
